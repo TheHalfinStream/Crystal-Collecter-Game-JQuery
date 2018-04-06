@@ -1,6 +1,6 @@
 # Crystal-Collecter-Game-JQuery
 
-<h1> Week-4-game <h1>
+<h1> Week-4-game </h1>
 
 <p>Overview
 In this assignment, you'll create another fun and interactive game for web browsers. This time, your app must dynamically update your HTML pages with the jQuery library.
